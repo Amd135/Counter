@@ -1,0 +1,72 @@
+body{
+    text-align: center;
+    color: white;
+   
+}
+
+#btn{
+
+    background-color: rgb(137, 109, 61);
+    text-align: center;
+   
+    border: none;
+    border-radius: 30px;
+    font-size: 20px;
+    transition: 1.2s;
+    padding: 20px;
+    color: white;
+
+}
+#btn:hover{
+   color: rgb(206, 184, 154);
+}
+#btn:active{
+    background-color:plum ;
+    color: white;
+
+}
+
+#num{
+    padding: 20px;
+    width: 250px;
+    background-color: rgb(137, 109, 61);
+    border-radius: 10px;
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-top: 50px;
+    border: none;
+    color: white;
+    
+}
+
+#st, #rs{
+    background-color: rgb(137, 109, 61);
+    border: none;
+    padding: 30px;
+    margin-right: 10px;
+    margin-left: 20px;
+    border-radius: 10px;
+    width: 150px;
+    font-size: 20px;
+    color: white;
+}
+
+.cnt{
+    background-color: gainsboro;
+    height: 70vh;
+    width: 600px;
+    
+    margin-left: auto;
+    margin-right: auto;
+  
+    
+   
+   
+}
+
+#cp{
+    background-color: rgb(137, 109, 61);
+    padding: 20px;
+    margin: auto;
+    width: 560px;
+}
